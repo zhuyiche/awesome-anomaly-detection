@@ -13,11 +13,10 @@
 
 
 ## Deep Learning Method
-- [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf) 
-- Most Auto-encoder methods use either reconstruction error or negative log-likelihood, this is novel. This has been used by Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications in Application section.
+- [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)      Most Auto-encoder methods use either reconstruction error or negative log-likelihood, this is novel. This has been used by Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications in Application section.
 - [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://openreview.net/pdf?id=BJJLHbb0-) ICLR 2018, experiments done on KDDCUP
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) 
--Rejected by ICLR2019, but i personally think this is a good paper.
+Rejected by ICLR2019, but i personally think this is a good paper.
 - [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop
 
 
@@ -26,7 +25,7 @@
 - [One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf) -JMLR 2001 
 - [Support Vector Data Description](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.1425&rep=rep1&type=pdf) 
 - [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018 Oral 
-- Well written paper, sold a excellent story.
+Well written paper, sold a excellent story.
 
 
 
@@ -34,7 +33,7 @@
 - [Incorporating Feedback into Tree-based Anomaly Detection](https://github.com/ai/size-limit) - KDD 2017 Workshop on Interactive Data Exploration and Analytics. 
 Modifications are made on the basis of Isolation Forest.
 - [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
- An improved version of "Incorporating Feedback into Tree-based Anomaly Detection"
+An improved version of "Incorporating Feedback into Tree-based Anomaly Detection"
 
 
 
