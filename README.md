@@ -1,5 +1,5 @@
 # Awesome Anomaly Detection[![Awesome]
-> A list of Papers on anomaly detection
+A list of Papers on anomaly detection.
 
 
 
