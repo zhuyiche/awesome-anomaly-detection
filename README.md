@@ -17,15 +17,20 @@ A list of Papers on anomaly detection.
 - [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://openreview.net/pdf?id=BJJLHbb0-) ICLR 2018, experiments done on KDDCUP
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) 
 Rejected by ICLR2019, but i personally think this is a good paper.
-- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop
+
+### Time series
+- [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
+
+- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop. Multivariate Guassian distribution based.
+
+- [A Multimodel Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder](https://arxiv.org/pdf/1711.00614.pdf) - IEEE Robotics and Automation Letters 2018. 
 
 
 
 ## One-Class Classification
 - [One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf) -JMLR 2001 
 - [Support Vector Data Description](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.1425&rep=rep1&type=pdf) 
-- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018 Oral 
-Well written paper, sold a excellent story.
+- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018 Oral. A well written paper, sold a excellent story.
 
 
 
@@ -40,6 +45,9 @@ An improved version of "Incorporating Feedback into Tree-based Anomaly Detection
 ## Anomaly Detection Application
 ### KPI
 - [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903) -WWW2018 
+### Log
+- [DeepLog]
+
 
 
 
