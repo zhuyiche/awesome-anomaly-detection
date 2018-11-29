@@ -71,6 +71,8 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 ## Survey
 
+- [Anomaly detection in dynamic networks: a survey](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347)
+
 - [Anomaly Detection : A Survey](http://cucis.ece.northwestern.edu/projects/DMS/publications/AnomalyDetection.pdf)
 
 - [A Survey of Recent Trends in One Class Classification](https://link.springer.com/chapter/10.1007/978-3-642-17080-5_21) 
