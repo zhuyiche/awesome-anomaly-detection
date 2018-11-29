@@ -19,8 +19,6 @@ A list of Papers on anomaly detection.
 
 - [Anomaly Detection with Robust Deep Autoencoders](http://dl.acm.org/authorize?N33358) - KDD 2017.
 
-- [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://openreview.net/pdf?id=BJJLHbb0-) ICLR 2018. experiments done on KDDCUP
-
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) 
 > Rejected by ICLR2019. But i personally think this is a good paper.
 
