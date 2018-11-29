@@ -1,6 +1,6 @@
 # Awesome Anomaly Detection[![Awesome]
 A list of Papers on anomaly detection.
-
+You are welcome to open an issue and pull your requests if you think any paper that is important but not inclued in this repo.
 
 
 ## Machine Learning Method
