@@ -78,7 +78,7 @@ A list of Papers on anomaly detection.
 
 ## FeedBack
 - [Incorporating Feedback into Tree-based Anomaly Detection](https://github.com/ai/size-limit) - KDD 2017 Workshop on Interactive Data Exploration and Analytics. 
-Modifications are made on the basis of Isolation Forest.
+> Modifications are made on the basis of Isolation Forest.
 - [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
 > An improved version of "Incorporating Feedback into Tree-based Anomaly Detection"
 
