@@ -7,7 +7,7 @@ A list of Papers on anomaly detection.
 - [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) - ICDM 2008.
 - [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf) 
 > This paper is really hard to follow yet some idea are good.
-- [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) -SIGMOD 2000.
+- [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) - SIGMOD 2000.
 > A locally density based method.
 
 
@@ -23,7 +23,7 @@ A list of Papers on anomaly detection.
 > Rejected by ICLR2019. But i personally think this is a good paper.
 
 ### GAN based
-- [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) -IPMI 2017.
+- [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) - IPMI 2017.
 - [Efficient-GAN-Based Anomaly Detection](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection) ICLR Workshop 2018.
 
 ### RNN
@@ -37,9 +37,9 @@ A list of Papers on anomaly detection.
 
 ### Hypersphereical Learning
 
-- [Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning](https://dl.acm.org/citation.cfm?id=3132964) -CIKM 2017.
+- [Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning](https://dl.acm.org/citation.cfm?id=3132964) - CIKM 2017.
 
-- [Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks](https://www.ijcai.org/proceedings/2018/0378.pdf) IJCAI 2018. 
+- [Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks](https://www.ijcai.org/proceedings/2018/0378.pdf) - IJCAI 2018. 
 > Inherit the idea of Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning, using an extra layer to separate anomaly instances among normal instance.
 
 - [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018 Oral.
@@ -63,7 +63,7 @@ A list of Papers on anomaly detection.
 
 ## Correlation
 
-- [Detecting Multiple Periods and Periodic Paerns in Event Time Sequences](http://chaozhang.org/papers/cikm17a.pdf) - CIKM 2017.
+- [Detecting Multiple Periods and Periodic Patterns in Event Time Sequences](http://chaozhang.org/papers/cikm17a.pdf) - CIKM 2017.
 
 ## Ranking
 
@@ -92,7 +92,7 @@ Modifications are made on the basis of Isolation Forest.
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017. 
 > This is the first paper apply deep learning method to detect anomaly in log data. However, there are some obvious flaws in the experiment(i.e. The number of log templates are small, yet the top 10 predicted templates are used as true predications. Additionally, the author refuesed to share more details about there model.)
 
-- [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) -USENIX 2010
+- [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
 
 
 
