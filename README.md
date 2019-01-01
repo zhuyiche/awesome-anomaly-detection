@@ -12,6 +12,7 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 
 ## Deep Learning Method
+
 ### Likelihood Generative Methods
 - [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)  
 > Most Auto-encoder methods use either reconstruction error or negative log-likelihood, this is novel. This has been used by Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications in Application section.
@@ -21,6 +22,8 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) 
 > Rejected by ICLR2019. But i personally think this is a good paper.
+
+- [Multidimensional Time Series Anomaly Detection: A GRU-based Gaussian Mixture Variational Autoencoder Approach](http://proceedings.mlr.press/v95/guo18a/guo18a.pdf) - ACML 2018
 
 ### GAN based
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) - IPMI 2017.
@@ -84,6 +87,13 @@ You are welcome to open an issue and pull your requests if you think any paper t
 - [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
 > An improved version of "Incorporating Feedback into Tree-based Anomaly Detection"
 
+## Time series(online)
+
+- [A Generalized Student-t Based Approach to Mixed-Type Anomaly Detection](http://www.nvc.cs.vt.edu/~ctlu/Publication/2013/AAAI-Lu-2013.pdf) - AAAI 2013
+
+- [Stochastic Online Anomaly Analysis for Streaming Time Series](https://www.ijcai.org/proceedings/2017/0445.pdf) - IJCAI 2017
+
+- [Student-t Process Regression with Student-t Likelihood](https://www.ijcai.org/proceedings/2017/0393.pdf) - IJCAI 2017
 
 ## Anomaly Detection Application
 
