@@ -15,15 +15,20 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 ### Likelihood Generative Methods
 - [Variational Autoencoder based Anomaly Detection using Reconstruction Probability](http://dm.snu.ac.kr/static/docs/TR/SNUDM-TR-2015-03.pdf)  
-> Most Auto-encoder methods use either reconstruction error or negative log-likelihood, this is novel. This has been used by Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications in Application section.
+
+#### Auto-encoder
+
 - [Learning sparse representation with variational auto-encoder for anomaly detection](https://ieeexplore.ieee.org/document/8386760/)
 
 - [Anomaly Detection with Robust Deep Autoencoders](http://dl.acm.org/authorize?N33358) - KDD 2017.
 
-- [Deep Anomaly Detection with Outlier Exposure](https://github.com/hendrycks/outlier-exposure) 
-> Rejected by ICLR2019. But i personally think this is a good paper.
+- [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf) - ICLR 2018.
+
+#### Variational Auto-encoder
 
 - [Multidimensional Time Series Anomaly Detection: A GRU-based Gaussian Mixture Variational Autoencoder Approach](http://proceedings.mlr.press/v95/guo18a/guo18a.pdf) - ACML 2018
+
+- [A Multimodel Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder](https://arxiv.org/pdf/1711.00614.pdf) - IEEE Robotics and Automation Letters 2018. 
 
 ### GAN based
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) - IPMI 2017.
@@ -33,20 +38,13 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
 
-- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop. 
-> Multivariate Guassian distribution based.
-
-- [A Multimodel Anomaly Detector for Robot-Assisted Feeding Using an LSTM-based Variational Autoencoder](https://arxiv.org/pdf/1711.00614.pdf) - IEEE Robotics and Automation Letters 2018. 
+- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop.
 
 ### Hypersphereical Learning
 
 - [Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning](https://dl.acm.org/citation.cfm?id=3132964) - CIKM 2017.
 
-- [Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks](https://www.ijcai.org/proceedings/2018/0378.pdf) - IJCAI 2018. 
-> Inherit the idea of Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning, using an extra layer to separate anomaly instances among normal instance.
-
-- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018 Oral.
-> A well written paper, sold a excellent story, but this paper **didn't** cited Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning, which inherited the same idea but published earlier than Deep One-Class Classification. I doubt the level of nnovelty in this paper though it was presented as oral paper in ICML 2018. Additionally, i have read carefully to the codes that were made public by author, **the implementation on the loss function of SVDD are different from what they claimed in paper**.
+- [Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks](https://www.ijcai.org/proceedings/2018/0378.pdf) - IJCAI 2018.
 
 ## One-Class Classification
 
@@ -55,10 +53,9 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320316300267) - Pattern Recognition 2018.
 
-## Hybrid
+- [Optimal single-class classification strategies](https://papers.nips.cc/paper/2987-optimal-single-class-classification-strategies.pdf) - NIPS 2007
 
-- [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf) - ICLR 2018.
-> Incorporate mixture gaussian by energy function.
+- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018.
 
 ## PCA
 
@@ -93,8 +90,17 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Stochastic Online Anomaly Analysis for Streaming Time Series](https://www.ijcai.org/proceedings/2017/0445.pdf) - IJCAI 2017
 
-- [Student-t Process Regression with Student-t Likelihood](https://www.ijcai.org/proceedings/2017/0393.pdf) - IJCAI 2017
+## Interpretation
 
+- [Contextual Outlier Interpretation](https://www.ijcai.org/proceedings/2018/0341.pdf) -IJCAI 2018
+
+## Evaulation Metrics
+
+- [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series.pdf) - NIPS 2018
+
+## Geometric transformation
+
+- [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/pdf/1805.10917.pdf) - NIPS 2018
 ## Anomaly Detection Application
 
 ### KPI
