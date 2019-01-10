@@ -3,13 +3,23 @@ A list of Papers on anomaly detection.
 You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
 
 
-## Machine Learning Method
+## Classical Method
 - [Isolation Forest](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf) - ICDM 2008.
-- [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf) 
-> This paper is really hard to follow yet some idea are good.
-- [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) - SIGMOD 2000.
-> A locally density based method.
 
+- [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) - SIGMOD 2000.
+
+- [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf) 
+> This paper is hard to follow but the idea is good.
+
+- [Support Vector Method for Novelty Detection](https://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection.pdf) - NIPS 2000
+
+### One-Class Classification
+
+- [One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf) - JMLR 2001. 
+
+- [Support Vector Data Description](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.1425&rep=rep1&type=pdf) 
+
+- [Can I Trust My One-Class Classification?](http://www.ipb.uni-bonn.de/pdfs/Mack2014Can.pdf)
 
 ## Deep Learning Method
 
@@ -32,8 +42,10 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 ### GAN based
 - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/pdf/1703.05921.pdf) - IPMI 2017.
+
 - [Efficient-GAN-Based Anomaly Detection](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection) ICLR Workshop 2018.
 
+- [Anomaly detection with generative adversarial networks](https://openreview.net/pdf?id=S1EfylZ0Z) - Reject by ICLR 2018, but was used as baseline method in recent published NIPS paper.
 ### RNN
 
 - [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
@@ -47,9 +59,6 @@ You are welcome to open an issue and pull your requests if you think any paper t
 - [Deep into Hypersphere: Robust and Unsupervised Anomaly Discovery in Dynamic Networks](https://www.ijcai.org/proceedings/2018/0378.pdf) - IJCAI 2018.
 
 ## One-Class Classification
-
-- [One-Class SVMs for Document Classification](http://www.jmlr.org/papers/volume2/manevitz01a/manevitz01a.pdf) - JMLR 2001. 
-- [Support Vector Data Description](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.100.1425&rep=rep1&type=pdf) 
 
 - [High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320316300267) - Pattern Recognition 2018.
 
