@@ -116,7 +116,7 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
 
-## Anomaly Detection Application
+## Anomaly Detection Applications
 
 ### KPI
 - [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903) - WWW 2018.
