@@ -103,13 +103,20 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Contextual Outlier Interpretation](https://www.ijcai.org/proceedings/2018/0341.pdf) -IJCAI 2018
 
-## Evaulation Metrics
+### Evaulation Metrics
 
 - [Precision and Recall for Time Series](http://papers.nips.cc/paper/7462-precision-and-recall-for-time-series.pdf) - NIPS 2018
 
 ### Geometric transformation
 
 - [Deep Anomaly Detection Using Geometric Transformations](https://arxiv.org/pdf/1805.10917.pdf) - NIPS 2018
+
+
+### FeedBack
+- [Incorporating Feedback into Tree-based Anomaly Detection](https://github.com/ai/size-limit) - KDD 2017 Workshop on Interactive Data Exploration and Analytics.
+
+- [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
+
 ## Anomaly Detection Application
 
 ### KPI
@@ -131,11 +138,6 @@ You are welcome to open an issue and pull your requests if you think any paper t
 - [A Survey of Recent Trends in One Class Classification](https://link.springer.com/chapter/10.1007/978-3-642-17080-5_21) 
 
 - [A survey on unsupervised outlier detection in high‐dimensional numerical data](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
-
-## FeedBack
-- [Incorporating Feedback into Tree-based Anomaly Detection](https://github.com/ai/size-limit) - KDD 2017 Workshop on Interactive Data Exploration and Analytics.
-
-- [Feedback-Guided Anomaly Discovery via Online Optimization](http://web.engr.oregonstate.edu/~afern/papers/kdd18-siddiqui.pdf) - KDD 2018.
 
 
 
