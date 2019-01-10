@@ -36,7 +36,7 @@ The papers are orgnized in classical method, deep learning method, application a
 
 ### Correlation
 
-- [Detecting Multiple Periods and Periodic Patterns in Event Time Sequences](http://chaozhang.org/papers/cikm17a.pdf) - CIKM 2017.
+- [Detecting Multiple Periods and Periodic Patterns in Event Time Sequences](http://chaozhang.org/papers/cikm17a.pdf) - CIKM 2017.
 
 ### Ranking
 
