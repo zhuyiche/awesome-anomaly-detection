@@ -21,6 +21,18 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Can I Trust My One-Class Classification?](http://www.ipb.uni-bonn.de/pdfs/Mack2014Can.pdf)
 
+- [A loss framework for calibrated anomaly detection](https://papers.nips.cc/paper/7422-a-loss-framework-for-calibrated-anomaly-detection.pdf) - NIPS 2018
+
+### PCA-based
+
+- [robust deep and inductive anomaly detection](https://arxiv.org/abs/1704.06743) - ECML PKDD 2017
+
+- [Efficient Anomaly Detection via Matrix Sketching](https://arxiv.org/pdf/1804.03065.pdf) - NIPS 2018
+
+### Clustering
+
+- [A Practical Algorithm for Distributed Clustering and Outlier Detection](https://arxiv.org/pdf/1805.09495.pdf) - NIPS 2018
+
 ## Deep Learning Method
 
 ### Likelihood Generative Methods
@@ -34,6 +46,7 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION](https://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf) - ICLR 2018.
 
+- [Generative Probabilistic Novelty Detection with Adversarial Autoencoders](https://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf) - NIPS 2018
 #### Variational Auto-encoder
 
 - [Multidimensional Time Series Anomaly Detection: A GRU-based Gaussian Mixture Variational Autoencoder Approach](http://proceedings.mlr.press/v95/guo18a/guo18a.pdf) - ACML 2018
@@ -46,6 +59,7 @@ You are welcome to open an issue and pull your requests if you think any paper t
 - [Efficient-GAN-Based Anomaly Detection](https://github.com/houssamzenati/Efficient-GAN-Anomaly-Detection) ICLR Workshop 2018.
 
 - [Anomaly detection with generative adversarial networks](https://openreview.net/pdf?id=S1EfylZ0Z) - Reject by ICLR 2018, but was used as baseline method in recent published NIPS paper.
+
 ### RNN
 
 - [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
@@ -66,9 +80,9 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018.
 
-## PCA
+## Energy-based
 
-- [robust deep and inductive anomaly detection](https://arxiv.org/abs/1704.06743) - ECML PKDD 2017
+- [Deep structured energy based models for anomaly detection](https://arxiv.org/pdf/1605.07717.pdf) - ICML 2016
 
 ## Correlation
 
@@ -87,6 +101,7 @@ You are welcome to open an issue and pull your requests if you think any paper t
 - [A Survey of Recent Trends in One Class Classification](https://link.springer.com/chapter/10.1007/978-3-642-17080-5_21) 
 > I read this survey only because this is the sole survey in One Class Classification.
 
+- [A survey on unsupervised outlier detection in high‐dimensional numerical data](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
 ## FeedBack
 - [Incorporating Feedback into Tree-based Anomaly Detection](https://github.com/ai/size-limit) - KDD 2017 Workshop on Interactive Data Exploration and Analytics. 
 > Modifications are made on the basis of Isolation Forest.
