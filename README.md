@@ -1,6 +1,7 @@
 # Awesome Anomaly Detection
 A list of Papers on anomaly detection.
 You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
+The papers are orgnized in classical method, deep learning method, application and survey.
 
 
 ## Classical Method
@@ -69,12 +70,6 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Anomaly detection with generative adversarial networks](https://openreview.net/pdf?id=S1EfylZ0Z) - Reject by ICLR 2018, but was used as baseline method in recent published NIPS paper.
 
-### RNN
-
-- [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
-
-- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop.
-
 ### Hypersphereical Learning
 
 - [Anomaly Detection in Dynamic Networks using Multi-view Time-Series Hypersphere Learning](https://dl.acm.org/citation.cfm?id=3132964) - CIKM 2017.
@@ -93,11 +88,15 @@ You are welcome to open an issue and pull your requests if you think any paper t
 
 - [Deep structured energy based models for anomaly detection](https://arxiv.org/pdf/1605.07717.pdf) - ICML 2016
 
-### Time series(online)
+### Time series
 
 - [A Generalized Student-t Based Approach to Mixed-Type Anomaly Detection](http://www.nvc.cs.vt.edu/~ctlu/Publication/2013/AAAI-Lu-2013.pdf) - AAAI 2013
 
 - [Stochastic Online Anomaly Analysis for Streaming Time Series](https://www.ijcai.org/proceedings/2017/0445.pdf) - IJCAI 2017
+
+- [Long short term memory networks for anmomaly detection in time series](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2015-56.pdf)
+
+- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop.
 
 ### Interpretation
 
