@@ -1,4 +1,4 @@
-# Awesome Anomaly Detection[![Awesome]
+# Awesome Anomaly Detection
 A list of Papers on anomaly detection.
 You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
 
