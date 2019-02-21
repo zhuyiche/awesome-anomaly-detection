@@ -9,8 +9,7 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [LOF: Identifying Density-Based Local Outliers](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf) - SIGMOD 2000.
 
-- [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf) 
-> This paper is hard to follow but the idea is good.
+- [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf)
 
 - [Support Vector Method for Novelty Detection](https://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection.pdf) - NIPS 2000
 
@@ -124,7 +123,6 @@ The papers are orgnized in classical method, deep learning method, application a
 ### Log
 
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017. 
-> This is the first paper apply deep learning method to detect anomaly in log data. However, there are some obvious flaws in the experiment(i.e. The number of log templates are small, yet the top 10 predicted templates are used as true predications. Additionally, the author refuesed to share more details about there model.)
 
 - [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
 
