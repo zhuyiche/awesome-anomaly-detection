@@ -42,6 +42,11 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [ranking causal anomalies via temporal and dynamical analysis on vanishing correlations](https://www.kdd.org/kdd2016/papers/files/rfp0445-chengAemb.pdf) - KDD 2016.
 
+### Streaming
+
+- [MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams](https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf) - AAAI 2020.
+
+
 ## Deep Learning Method
 
 ### Generative Methods
