@@ -120,6 +120,7 @@ The papers are orgnized in classical method, deep learning method, application a
 
 ### KPI
 - [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903) - WWW 2018.
+- [Unsupervised Online Anomaly Detection with Parameter Adaptation for KPI Abrupt Changes](https://www.researchgate.net/publication/338205097_Unsupervised_Online_Anomaly_Detection_with_Parameter_Adaptation_for_KPI_Abrupt_Changes) - TNSM 2019.
 ### Log
 
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017. 
