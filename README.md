@@ -87,12 +87,18 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [High-dimensional and large-scale anomaly detection using a linear one-class SVM with deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320316300267) - Pattern Recognition 2018.
 
-- [Optimal single-class classification strategies](https://papers.nips.cc/paper/2987-optimal-single-class-classification-strategies.pdf) - NIPS 2007
+- [Optimal single-class classification strategies](https://papers.nips.cc/paper/2987-optimal-single-class-classification-strategies.pdf) - NIPS 2007.
 
-- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018
 
-- [Explainable Deep One-Class Classification](https://openreview.net/forum?id=A5VV3UyIQz) ICLR 2021 
+- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018.
 
+- [Deep Semi-Supervised Anomaly Detection](https://openreview.net/forum?id=HkgH0TEYwH) - ICLR 2020.
+
+- [Simple and Effective Prevention of Mode Collapse in Deep One-Class Classification](https://arxiv.org/pdf/2001.08873.pdf) - IJCNN 2021
+
+- [Explainable Deep One-Class Classification](https://openreview.net/forum?id=A5VV3UyIQz) ICLR 2021.
+
+- [Learning and Evaluating Representation for Deep One-Class Classification](https://openreview.net/pdf?id=HCSgyPUfeDj) ICLR 2021.
 
 ### Energy-based
 
