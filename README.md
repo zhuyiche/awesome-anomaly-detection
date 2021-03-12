@@ -141,7 +141,6 @@ The papers are orgnized in classical method, deep learning method, application a
 - [Unsupervised Online Anomaly Detection with Parameter Adaptation for KPI Abrupt Changes](https://www.researchgate.net/publication/338205097_Unsupervised_Online_Anomaly_Detection_with_Parameter_Adaptation_for_KPI_Abrupt_Changes) - TNSM 2019.
 ### Log
 
-- 
 - [Loganomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs](https://netman.aiops.org/wp-content/uploads/2019/07/LogAnomaly.pdf) -IJCAI 2019
 - [Robust log-based anomaly detection on unstable log data](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2019FSE_LogRobust.pdf) - FSE 2019
 - [Prefix: Switch failure prediction in datacenter networks](https://dl.acm.org/doi/abs/10.1145/3179405) -SIGMETRICS 2018
