@@ -89,7 +89,10 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [Optimal single-class classification strategies](https://papers.nips.cc/paper/2987-optimal-single-class-classification-strategies.pdf) - NIPS 2007
 
-- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018.
+- [Deep One-Class Classification](http://proceedings.mlr.press/v80/ruff18a/ruff18a.pdf) - ICML 2018
+
+- [Explainable Deep One-Class Classification](https://openreview.net/forum?id=A5VV3UyIQz) ICLR 2021 
+
 
 ### Energy-based
 
