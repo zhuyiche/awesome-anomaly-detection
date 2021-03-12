@@ -139,8 +139,8 @@ The papers are orgnized in classical method, deep learning method, application a
 - [Unsupervised Online Anomaly Detection with Parameter Adaptation for KPI Abrupt Changes](https://www.researchgate.net/publication/338205097_Unsupervised_Online_Anomaly_Detection_with_Parameter_Adaptation_for_KPI_Abrupt_Changes) - TNSM 2019.
 ### Log
 
+- [Robust log-based anomaly detection on unstable log data](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2019FSE_LogRobust.pdf) - FSE 2019
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017. 
-
 - [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
 
 
