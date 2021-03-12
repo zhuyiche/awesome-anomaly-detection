@@ -11,6 +11,8 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [Extended Isolation Forest](http://matias-ck.com/files/papers/Extended_Isolation_Forest.pdf)
 
+- [Robust Random Cut Forest Based Anomaly Detection On Streams](http://proceedings.mlr.press/v48/guha16.pdf)
+
 - [Support Vector Method for Novelty Detection](https://papers.nips.cc/paper/1723-support-vector-method-for-novelty-detection.pdf) - NIPS 2000
 
 ### One-Class Classification
