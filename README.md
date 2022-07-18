@@ -1,4 +1,4 @@
-# Awesome Anomaly Detection
+﻿# Awesome Anomaly Detection
 A list of Papers on anomaly detection.
 You are welcome to open an issue and pull your requests if you think any paper that is important but not are inclueded in this repo.
 The papers are orgnized in classical method, deep learning method, application and survey.
@@ -114,6 +114,8 @@ The papers are orgnized in classical method, deep learning method, application a
 
 - [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://arxiv.org/pdf/1607.00148.pdf) - ICML 2016 Workshop.
 
+- [DATE: Dual Attentive Tree-aware Embedding for Customs Fraud Detection](https://dl.acm.org/doi/10.1145/3394486.3403339) - KDD 2020
+
 ### Interpretation
 
 - [Contextual Outlier Interpretation](https://www.ijcai.org/proceedings/2018/0341.pdf) -IJCAI 2018
@@ -139,13 +141,20 @@ The papers are orgnized in classical method, deep learning method, application a
 ### KPI
 - [Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](https://arxiv.org/pdf/1802.03903) - WWW 2018.
 - [Unsupervised Online Anomaly Detection with Parameter Adaptation for KPI Abrupt Changes](https://www.researchgate.net/publication/338205097_Unsupervised_Online_Anomaly_Detection_with_Parameter_Adaptation_for_KPI_Abrupt_Changes) - TNSM 2019.
-### Log
 
+### Log
 - [Loganomaly: Unsupervised detection of sequential and quantitative anomalies in unstructured logs](https://netman.aiops.org/wp-content/uploads/2019/07/LogAnomaly.pdf) -IJCAI 2019
 - [Robust log-based anomaly detection on unstable log data](https://netman.aiops.org/~peidan/ANM2020/6.LogAnomalyDetection/LectureCoverage/2019FSE_LogRobust.pdf) - FSE 2019
 - [Prefix: Switch failure prediction in datacenter networks](https://dl.acm.org/doi/abs/10.1145/3179405) -SIGMETRICS 2018
 - [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf) - CCS 2017
 - [Mining Invariants from Logs for System Problem Detection](https://www.usenix.org/legacy/event/atc10/tech/slides/lou.pdf) - USENIX 2010
+
+### Concept Drift
+- [Active Learning for Human-in-the-loop Customs Inspection](https://ieeexplore.ieee.org/document/9695316) -TKDE 2022
+- [Customs Fraud Detection in the Presence of Concept Drift](https://arxiv.org/abs/2109.14155) - ICDMW 2021
+
+### Domain Adaptation
+- [Knowledge Sharing via Domain Adaptation in Customs Fraud Detection](http://arxiv.org/abs/2201.06759) - AAAI 2022
 
 
 ## Survey
